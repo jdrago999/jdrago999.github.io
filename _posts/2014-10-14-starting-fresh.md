@@ -11,4 +11,6 @@ header-img: "img/post-bg-05.jpg"
 
 <p>As the venerable <a href="http://www.joelonsoftware.com/articles/fog0000000069.html" target="_blank">Joel Spolsky has previously indicated</a>, with great wisdom, that throwing away crufty old code means you also lose the bugfixes and hard-won lessons that made things work.  This is a real downer though, especially from a Dev's perspective.  Here is my list of reasons <strong>in favor of</strong> the Big Rewrite.</p>
 
-<p>Who wants to maintain that old code?  The previous "architect" was working with a different set of constraints and the business had different needs back then.</p>
+<h2>Who wants to maintain that old code?</h2>
+
+<p>The previous "architect" was working with a different set of constraints and the business had different needs back then.</p>
