@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+title: A Developer's Journey
+email: jdrago.999@gmail.com
+description: "Codifying intent.  Maintaining agility.  Scaling."
+baseurl: "/"
+url: "https://jdrago999.github.io"
+twitter_username: devstack
+#github_username:  jdrago999
+#facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
