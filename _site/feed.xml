@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Developer&#39;s Journey</title>
+    <description>Codifying intent.  Maintaining agility.  Scaling.</description>
+    <link>https://jdrago999.github.io/</link>
+    <atom:link href="https://jdrago999.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Oct 2014 20:52:03 -0700</pubDate>
+    <lastBuildDate>Tue, 14 Oct 2014 20:52:03 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Starting Fresh</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+mixpanel.track(&quot;viewed starting-fresh&quot;);
+&lt;/script&gt;
+
+&lt;p&gt;Starting fresh is something we rarely do, even though it&#39;s always &lt;em&gt;possible&lt;/em&gt;.  When we finally do, we ask ourselves &quot;Why didn&#39;t I do that sooner?&quot;&lt;/p&gt;
+
+&lt;p&gt;As the venerable &lt;a href=&quot;http://www.joelonsoftware.com/articles/fog0000000069.html&quot; target=&quot;_blank&quot;&gt;Joel Spolsky has previously indicated&lt;/a&gt;, with great wisdom, that throwing away crufty old code means you also lose the bugfixes and hard-won lessons that made things work.  This is a real downer though, especially from a Dev&#39;s perspective.  Here is my list of reasons &lt;strong&gt;in favor of&lt;/strong&gt; the Big Rewrite.&lt;/p&gt;
+
+&lt;h2&gt;Maintaining Old Code Sucks&lt;/h2&gt;
+
+&lt;p&gt;Who wants to maintain that old code?&lt;/p&gt;
+
+&lt;h2&gt;Constraints Have Changed&lt;/h2&gt;
+
+&lt;h2&gt;
+&lt;/h2&gt;
+</description>
+        <pubDate>Tue, 14 Oct 2014 05:00:00 -0700</pubDate>
+        <link>https://jdrago999.github.io/2014/10/14/starting-fresh/</link>
+        <guid isPermaLink="true">https://jdrago999.github.io/2014/10/14/starting-fresh/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kanban and the Harlem Shake</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+mixpanel.track(&quot;viewed kanban-harlem-shake&quot;);
+&lt;/script&gt;
+
+&lt;p&gt;No wrong way to do it.&lt;/p&gt;
+
+&lt;p&gt;Everyone is doing their own thing.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Oct 2014 05:00:00 -0700</pubDate>
+        <link>https://jdrago999.github.io/2014/10/14/kanban-and-the-harlem-shake/</link>
+        <guid isPermaLink="true">https://jdrago999.github.io/2014/10/14/kanban-and-the-harlem-shake/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Effective rspec Testing that Scales</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+mixpanel.track(&quot;viewed effective-rspec&quot;);
+&lt;/script&gt;
+
+&lt;div class=&quot;gist-holder&quot;&gt;
+  &lt;script src=&quot;https://gist.github.com/jdrago999/79b23993501e2a20e87f.js&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 14 Oct 2014 05:00:00 -0700</pubDate>
+        <link>https://jdrago999.github.io/2014/10/14/effective-rspec-testing-that-scales/</link>
+        <guid isPermaLink="true">https://jdrago999.github.io/2014/10/14/effective-rspec-testing-that-scales/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

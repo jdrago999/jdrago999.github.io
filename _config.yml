@@ -8,6 +8,8 @@ twitter_username: devstack
 #github_username:  jdrago999
 #facebook_username:  IronSummitMedia
 
+highlighter: rouge
+
 # Build settings
 markdown: kramdown
 permalink: pretty
